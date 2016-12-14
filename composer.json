@@ -1,5 +1,10 @@
 {
+	"name": "doran/col",
+	"minimum-stability": "stable",
     "require": {
-        "monolog/monolog": "1.0.*"
+		"php": ">=5.3.3",
+		"monolog/monolog" : "1.0.*"
     }
+	
+	
 }
